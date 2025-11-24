@@ -107,7 +107,7 @@ It is divided in 4 Stages:
     - Use: To test interaction designs before the AI is fully built.
 - **Low-Fidelity Prototypes:** Rapid, simple models to test feasibility.
 
-[Week 2 - Experimental Design->](summaries/Week2.md)
+[Week 2 - Experimental Design->](summaries/week2.md)
 
 ### Foundations of Experimental Design
 
