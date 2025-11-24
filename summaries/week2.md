@@ -273,10 +273,12 @@ Achieved by:
 ### Validity
 #### Internal Validity
 If the results obtained are not due to the manipulation, but rather to some other factors, then the study lacks internal validity. To get validity a good experimental design must be created.
+
 ![alt text](images/image-15.png)
 
 #### External Validity
 If the results obtained are general for humanity, (and not rather valid for the specific situation).
+
 ![alt text](images/image-16.png)
 
 ## Running an experiment
