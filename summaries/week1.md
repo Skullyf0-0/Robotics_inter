@@ -130,7 +130,7 @@ All of these *condition* the type and quality of interaction.
 
 **Levels of Autonomy**
 
-In Sheridan’s scale, there is a continuum from the robot being “completely controlled by a human (i.e., teleoperated)”, through the robot being completely autonomous and not requiring input or approval of its actions from a human before taking actions.
+In Sheridan’s scale, there is a continum from the robot being “completely controlled by a human (i.e., teleoperated)”, through the robot being completely autonomous and not requiring input or approval of its actions from a human before taking actions.
 
 ![alt text](images/image-4.png)
 
