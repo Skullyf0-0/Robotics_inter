@@ -9,6 +9,6 @@ The evaluation is composed only of writing questions, and the materials covered 
 
 [Week 1 - Features of Interaction; Design Methods->](summaries/week1.md)
 
-[Week 2 - Experimental Design->](summaries/Week2.md)
+[Week 2 - Experimental Design->](summaries/week2.md)
 
 ## Map 2 - 5th of December
