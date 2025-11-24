@@ -73,7 +73,7 @@ A variable: any measurable characteristic in an experiment.
 | E.g., robot makes errors or not | E.g., Likeability rating    |
 | Specific, controlled            | Measured through metrics    |
 
-![alt text](image-8.png)
+![alt text](images/image-8.png)
 
 > Choice of Dependent Variables depends entirely on the research question and hypothesis.
 
@@ -89,7 +89,7 @@ A variable: any measurable characteristic in an experiment.
 
 Used often in early prototype testing but have major flaws.
 
-![alt text](image-9.png)
+![alt text](images/image-9.png)
 
 **One-group post-test design**: Only one group. No comparison.
 - Very weak validity.
@@ -120,9 +120,9 @@ Participants are randomly allocated to one condition each.
 
 **Two common variants:**
 - Post-test only;
-![alt text](image-10.png)
+![alt text](images/image-10.png)
 - Pre-test/post-test
-![alt text](image-11.png)
+![alt text](images/image-11.png)
 
 ### Within-Subjects Design
 
@@ -131,7 +131,7 @@ Each participant experiences all conditions.
 >- Half participants: C1 → C2
 >- Other half: C2 → C1
 
-![alt text](image-12.png)
+![alt text](images/image-12.png)
 
 **Advantages**
 - Requires fewer participants;
@@ -149,7 +149,7 @@ Combination of:
 
 >Useful for complex HRI experiments (e.g., robot type × scenario).
 
-![alt text](image-13.png)
+![alt text](images/image-13.png)
 
 ## Measures Used in HRI Experiments
 
@@ -203,7 +203,7 @@ Highly common but subjective.
 - Yes/No;
 - Likert scales (1–7, strongly disagree → strongly agree).
 
-![alt text](image-14.png)
+![alt text](images/image-14.png)
 
 **Problem**
 - Participants’ **words != actions**. Explicit attitudes often differ from behavior.
@@ -273,11 +273,11 @@ Achieved by:
 ### Validity
 #### Internal Validity
 If the results obtained are not due to the manipulation, but rather to some other factors, then the study lacks internal validity. To get validity a good experimental design must be created.
-![alt text](image-15.png)
+![alt text](images/image-15.png)
 
 #### External Validity
 If the results obtained are general for humanity, (and not rather valid for the specific situation).
-![alt text](image-16.png)
+![alt text](images/image-16.png)
 
 ## Running an experiment
 
@@ -304,9 +304,9 @@ Usually before running any study involving humans and robots that will be intera
     - Mental or emotional stress and humiliation;
     - Physical harm.
 
-![alt text](image-17.png)
+![alt text](images/image-17.png)
 
-![alt text](image-18.png)
+![alt text](images/image-18.png)
 
 #### Participants
 
@@ -317,7 +317,7 @@ Usually before running any study involving humans and robots that will be intera
 >In online surveys: they will also be working (even in online studies);
 >Often attention checks are needed to guarantee the participants are engaged with the experiment.
 
-![alt text](image-19.png)
+![alt text](images/image-19.png)
 
 Essential to ensure **generalizability**. You must collect:
 - Age
@@ -368,4 +368,4 @@ HRI research can also be conducted online!
 - Pros: higher quality data, it is made specifically for research.
 - Cons: less widely used.
 
-![alt text](image-20.png)
+![alt text](images/image-20.png)

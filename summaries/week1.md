@@ -6,7 +6,7 @@
 
 We will explore the following scenarios:
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 ### Interaction:
 
@@ -48,7 +48,7 @@ All of these *condition* the type and quality of interaction.
 
 ### Features of Human-Robot Interaction (HRI)
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 ### Feature 1: Physical Proximity
 
@@ -104,7 +104,7 @@ All of these *condition* the type and quality of interaction.
 - Judgmental
 
 ### Feature 4: Duration of Interaction
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 ### Feature 5: Information exchange
 
@@ -122,7 +122,7 @@ All of these *condition* the type and quality of interaction.
 
 ### Feature 6: Motivation for Interaction
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 ### Feature 7: 
 
@@ -132,7 +132,7 @@ All of these *condition* the type and quality of interaction.
 
 In Sheridan’s scale, there is a continuum from the robot being “completely controlled by a human (i.e., teleoperated)”, through the robot being completely autonomous and not requiring input or approval of its actions from a human before taking actions.
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 > Note: Higher autonomy requires balancing **trust, oversight, and delegation**.
 
@@ -185,13 +185,13 @@ Important points:
 
 ### Uncanny Valley
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
 - As robots become more humanlike, affinity increases…
 - Until realism becomes too close but imperfect -> **uncanny valley**;
 - Motion can deepen or alleviate the effect.
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 ### Comparison between "Agent"(i.e. chatGPT) and "Robot"
 A Robot is more embodied than a disembodied Agent (looking like the robot), and more anthropomorphic.
@@ -384,7 +384,7 @@ Simple, early prototypes used to:
 
 ### Wizard-of-Oz (WoZ) Studies
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 
 - A “Wizard” behind the scenes controls the robot (the robot is tele-operated simulating an autonomous one).
 - Allows to understand the impact that the situation and test different interaction modes.
