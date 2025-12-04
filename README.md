@@ -107,6 +107,8 @@ It is divided in 4 Stages:
     - Use: To test interaction designs before the AI is fully built.
 - **Low-Fidelity Prototypes:** Rapid, simple models to test feasibility.
 
+## Map 2 - 5th of December
+
 [Week 2 - Experimental Design->](summaries/week2.md)
 
 ### Foundations of Experimental Design
@@ -190,4 +192,4 @@ You generally need conditions to compare (Treatment vs. Control).
 - **Prolific:** Higher quality data, research-focused.
 - **MTurk:** Fast, cheap, but lower quality and ethical concerns regarding worker treatment.
 
-## Map 2 - 5th of December
+[Week 3 - Data Analysis; Motion and Animation->](summaries/week3.md)
