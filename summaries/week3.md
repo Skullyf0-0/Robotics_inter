@@ -18,7 +18,7 @@ Summarize and organize data. Tell us about the “population and the distributio
 
 >We are interested not only  in statistics that  describe the population sample but also in  statistics that allow us to “infer” things about the  users in the groups (the conditions)  interacting  with our social robots: we need **inferential statistics**.
 
-#### Inferential Statistics
+#### Inferential Statistics:
 Allow us to make predictions (inferences) about the population based on the sample.
 
 ![alt text](images/image-22.png)

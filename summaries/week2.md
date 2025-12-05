@@ -343,7 +343,7 @@ Another important aspects:
 Wait outside the room where the experiment is running;
 - Consider having 50% participants do the experiment  with a male experimenter, 50% with a female experimenter.
 
-### Minimiz Noise 
+### Minimize Noise 
 
 Noise is everything we can't controll in a experiment, like:
 - how participants are feeling on that particular day.
