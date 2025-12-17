@@ -193,3 +193,11 @@ You generally need conditions to compare (Treatment vs. Control).
 - **MTurk:** Fast, cheap, but lower quality and ethical concerns regarding worker treatment.
 
 [Week 3 - Data Analysis; Motion and Animation->](summaries/week3.md)
+
+## Map 3 - 18th of December
+
+[Week 4 - Trust in HRI](summaries/week4.md)
+
+[Week 5 - Social Perception](summaries/week5.md)
+
+[Week 6 - Emotions and Non-verbal behaviour in HRI](summaries/week6.md)

@@ -109,9 +109,9 @@ To see exactly which groups differ (e.g., Robot A vs Robot C), you must do pairw
 **Significant** = probably not caused by chance for a given significance level, but rather caused by a factor of interest (your manipulation).
 
 #### P-Values
-The probability that the observed result occurred by chance if the Null Hypothesis ($H0$) is true.
+The **probability that the observed result occurred by chance** if the Null Hypothesis ($H0$) is true.
 
-It has a **Gold Standard** of 0.005(5%):
+It has a **Gold Standard** of 0.05(5%):
 - $p \le 0.05$: Result is **Significant** (Reject $H_0$, accept $H_1$).
 - $p > 0.05$: Result is **Not Significant** (Fail to reject $H_0$).
 
