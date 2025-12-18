@@ -77,7 +77,7 @@ Vocal Features:
 
 They can be categorized as:
 - **Emblems:** Direct translation to words (e.g., Peace sign, "The finger"). Culture-specific.
-- **Illustrators:** Accompany speech to visualize it (e.g., "The fish was this big").
+- **Illustrators/Iconic:** Accompany speech to visualize it (e.g., "The fish was this big").
 - **Regulators:** Coordinate conversation flow (e.g., Nodding, looking away).
 - **Self-adaptors:** Unconscious release of nervous energy (e.g., Touching hair, biting lips).
 
@@ -101,6 +101,8 @@ We want to  figure out the action of the user and also, “why” the user is pe
 - **Predicting behavior:** to anticipate what someone will do based on what we think they know or believe. 
 - **Perspective-taking:** Theory of mind helps us recognize that others don’t share all of our knowledge or experiences, and can act differently, especially if they see the situation from a different angle. 
 - **Inferring intentions:** to interpret the motives behind people’s actions. 
+
+![alt text](image-19.png)
 
 #### Robotic Application
 ![alt text](image-13.png)

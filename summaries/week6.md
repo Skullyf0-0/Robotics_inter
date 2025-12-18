@@ -27,7 +27,7 @@
     - **Embodiment Effect:** Participants reported **significantly higher empathy with the Physical Robot** compared to the virtual versions.
 
 #### Lessons Learned:
-- People respond emotionally to robotd (even in videos).
+- People respond emotionally to the robot (even in videos).
 - Physical robots raise more emotional responses than virtual ones.
 
 ## Social Robots and Emotions Theory and implementations
